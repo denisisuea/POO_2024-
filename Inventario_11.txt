@@ -1,0 +1,4 @@
+3,Leche Tony,2,75.0
+5,Queso,5,465.0
+8,Camarones,6,350.0
+10,Manzanas,1,60.0
